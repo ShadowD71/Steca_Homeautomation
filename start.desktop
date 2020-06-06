@@ -1,0 +1,6 @@
+# Datei /home/pi/.config/autostart/start.desktop
+[Desktop Entry]
+Type=Application
+Name=stecastart.sh
+Comment=No
+Exec=lxterminal -e "/home/pi/stecastart.sh"
